@@ -22,6 +22,18 @@ Demo 3
 
 5.
     a) 
+    
+6.  Jos otos 10°C, 12°C, 22°C,
+    Keskiarvo: 14.66667
+    Keskihajonta: 6.429101
+    Variaatiokerroin: 0.4383478
+    Kun otos kerrotaan 3:lla, 30, 36, 66 
+    Keskiarvo: 44
+    Keskihajonta: 19.2873
+    Variaatiokerroin: 0.4383478
+
+    Eli variaatiokerroin säilyy jos havainnot kerrataan samalla vakiolla c > 0
+
 
 7. 
     XXYYY
