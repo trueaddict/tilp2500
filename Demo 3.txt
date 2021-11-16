@@ -1,0 +1,45 @@
+Demo 3
+
+1. 
+    Moodi:      8
+    Mediaani:   0
+    Keskiarvo:  0.1666667
+
+2.
+    Mediaani:     -1
+    Alakvartiili: -4
+    Yläkvartiili:  3
+
+3.
+    a) Kasvaa vakion verran
+    b) Kertautuu vakiolla
+    c) Kasvaa 60e/kk
+    d) Kertautuu 1.014 kertaiseksi
+
+4. 
+    a) GoodNotes
+    b) 1.8 kertaiseksi
+
+5.
+    a) 
+
+7. 
+    XXYYY
+
+    12 + 12*12 + 9 + 9*9 + 9*9*9 = 975
+
+8.
+    a) 8! / (8 - 5)! = 6720
+
+    b) (6! / (6 - 3)!) * 2 = 240
+
+9.
+    Ei
+
+10.
+    joukkue = 12
+    kentta = 8
+
+    19958400 == a = factorial(joukkue) / factorial(joukkue - kentta) 
+
+    495 == b = choose(joukkue, kentta)

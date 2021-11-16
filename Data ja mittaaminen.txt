@@ -1,0 +1,8 @@
+Data ja mittaaminen
+
+Polkuavain: 45mitta23
+
+1. Aineisto, muuttujat ja mittaaminen
+
+    2.4 Frekvenssijakauma
+        Frekvenssijakauma == lukumääräjakauma

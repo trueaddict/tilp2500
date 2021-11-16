@@ -1,0 +1,44 @@
+Data ja mittaaminen - demo2
+
+1.
+    a) Välimatka-asteikko
+    b) Luokitteluasteikko
+    c) Välimatka-asteikko
+    d) Järjestysasteikko
+    e) Suhdeasteikko
+    f) Välimatka-asteikko
+    g) Välimatka-asteikko
+    h) Välimatka-asteikko
+    i) Välimatka-asteikko
+    j) Välimatka-asteikko
+    k) Suhdeasteikko
+
+2.
+    a) reliabiliteetti heikkenee, koska sama määrä miehiä ei vastaa
+    b) validiteetti heikkenee, koska tulos ei vastaa koko populaatiota
+3.  
+    12 * 1/12 = 1
+    Frekvenssijakauma kuvaisi paremmin suomalaisten syntymäkuukautta
+4.                         %  kumul. f.  kumul. f.%
+    lähes aina            9,6    8          9,6
+    melko usein           4,8   12         14,4
+    silloin tällöin      33,7   40         48,2
+    vain muutaman kerran 18,0   65         78,3
+    ei koskaan           21,7   83          100
+
+    moodi: 
+    mediaani:
+5.
+    
+6.
+    a) 3287
+    b) 3272
+7.
+    Tehty kts. vihko
+
+8. 
+    a) keskipalkka nousee 60e/kk
+    b) keskipalkka nousee 1.014 kertaiseksi
+9.
+    a) pätee
+    b) pätee
